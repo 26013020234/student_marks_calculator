@@ -48,4 +48,5 @@ Pass
 This project was created as a beginner-level Python project to understand basic programming concepts through a real-life example.
 
 ## Author
-Created by a First-Year Engineering Student 
+ARYA NANDKISHOR KALE
+
